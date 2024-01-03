@@ -17,4 +17,4 @@ Before you begin, make sure you have the following installed:
 First, clone this repository to your local machine:
 
 ```bash
-git clone [<repository-url>](https://github.com/taham655/githubChatBot.git)https://github.com/taham655/githubChatBot.git
+git clone [<repository-url>](https://github.com/taham655/githubChatBot.git)
