@@ -29,4 +29,16 @@ Now activate it
 ```bash
 source env/bin/activate
 ```
+### Install Required Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+## Running Streamlit 
+Now time to run the app
+```bash
+streamlit run app.py
+```
+
+
 
