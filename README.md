@@ -23,8 +23,9 @@ git clone https://github.com/taham655/githubChatBot.git
 
 ```bash
 python -m venv env
-
+```
 Now activate it
 
 ```bash
 source env/bin/activate
+```
